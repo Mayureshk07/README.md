@@ -1,33 +1,82 @@
-export const metadata = {
-  title: "About Me",
-};
+# 👋 Hi, I'm Mayuresh
 
-# Hi, I'm Mayuresh Kothalkar 👋
-
-I’m a passionate web developer and IT student who loves building practical digital solutions.  
-I enjoy turning ideas into real-world applications and continuously improving my skills in both frontend and backend development.
-
-## 🚀 What I Do
-- Build responsive and user-friendly web applications  
-- Work with modern web technologies  
-- Focus on clean UI, performance, and usability  
-- Learn something new every day
-
-## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js  
-- **Database:** MongoDB / MySQL  
-- **Tools:** Git, VS Code
-
-## 🎯 Current Focus
-- Improving full-stack development skills  
-- Building real-world projects  
-- Learning system design and scalability
-
-## 📫 Connect With Me
-- GitHub: https://github.com/Mayureshk07  
-- LinkedIn: https://linkedin.com/in/mayureshkothalkar 
+🎓 Information Technology Student
+💻 Aspiring Full-Stack Web Developer
+🚀 Builder of practical student-focused web platforms
 
 ---
 
-Thanks for visiting my profile 🚀
+## 🚀 About Me
+
+I’m a passionate developer from India who loves turning ideas into real-world web applications.
+Currently, I’m focused on mastering full-stack development and building projects that solve real problems for students and educational platforms.
+
+I enjoy improving UI/UX, optimizing performance, and continuously learning modern technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML5, CSS3, JavaScript
+* Responsive Design
+* Bootstrap / Tailwind (learning)
+
+**Backend**
+
+* Node.js
+
+**Database**
+
+* MongoDB
+* MySQL (basics)
+
+**Tools & Platforms**
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 📌 Current Projects
+
+### 🎯 Guess My College
+
+A student-focused platform that helps engineering aspirants explore colleges based on rank, preferences, and counseling data.
+
+**Features include:**
+
+* Interactive filters and data visualization
+* College prediction logic
+* Clean and responsive UI
+* Regular data updates
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Java concepts
+* Backend architecture & APIs
+* Database optimization
+* System design basics
+
+---
+
+## 🎯 Goals for 2026
+
+* Become a strong full-stack developer
+* Contribute to open source
+* Build scalable real-world platforms
+* Launch useful student tools online
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Mayureshk07
+* LinkedIn: www.linkedin.com/in/mayureshkothalkar
+
+---
+
+⭐ *“Keep building. Keep learning. Consistency beats talent.”*
